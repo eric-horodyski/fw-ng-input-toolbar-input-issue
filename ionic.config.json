@@ -1,0 +1,7 @@
+{
+  "name": "fw-ng-input-toolbar-input-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
